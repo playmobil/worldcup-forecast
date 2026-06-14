@@ -22,6 +22,29 @@ The headline result is itself honest: after an exhaustive search, the model sits
 
 ---
 
+## 2026 World Cup match results (live)
+
+An illustrative bet log following the dual-track forecast: $10,000 per match, split across
+home/draw/away in proportion to the model's predicted probabilities (min unit $100), settled
+at the actual result's odds.
+
+| Match | Model W/D/L % | Stake W/D/L | Actual | Odds | P/L |
+|---|---|---|---|---|---|
+| Mexico–South Africa | 63/24/12 | 6400/2400/1200 | home | 1.44 | −784 |
+| South Korea–Czech Republic | 39/32/29 | 3900/3200/2900 | home | 2.67 | +413 |
+| Canada–Bosnia | 54/28/18 | 5400/2800/1800 | draw | 3.64 | +192 |
+| United States–Paraguay | 61/25/14 | 6100/2500/1400 | home | 2.15 | +3,115 |
+| Qatar–Switzerland | 13/26/61 | 1300/2600/6100 | draw | 8.00 | +10,800 |
+| Brazil–Morocco | 42/31/28 | 4100/3100/2800 | draw | 3.92 | +2,152 |
+| Haiti–Scotland | 19/30/51 | 1900/3000/5100 | away | 1.55 | −2,095 |
+| Australia–Turkey | 26/31/43 | 2600/3100/4300 | home | 5.71 | +4,846 |
+| **Total (8 matches, $80,000 staked)** | | | | | **+18,639** |
+
+> ⚠️ Honest note: only 8 matches, and the return is dominated by a single longshot
+> (Qatar–Switzerland draw @8.00, +$10,800, ~60% of the total); against the ~5.9% bookmaker vig
+> the strategy is negative-EV overall. This is variance, **not** evidence of beating the market
+> — which is exactly the point this project keeps making. See [`docs/FINDINGS.md`](docs/FINDINGS.md).
+
 ## What it does
 
 - **Team strength** from a frozen pre-tournament FIFA snapshot + Transfermarkt squad value
