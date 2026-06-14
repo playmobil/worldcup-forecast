@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# Data: large public datasets are auto-downloaded; caches/posteriors are derived.
+# The small frozen 2026 snapshots under data/snapshots/ ARE committed (see data/README.md).
+data/cache/
+data/raw/
+*.pkl
+
+# Secrets
+.env
