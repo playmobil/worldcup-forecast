@@ -40,10 +40,9 @@ at the actual result's odds.
 | Australia–Turkey | 26/31/43 | 2600/3100/4300 | home | 5.71 | +4,846 |
 | **Total (8 matches, $80,000 staked)** | | | | | **+18,639** |
 
-> ⚠️ Honest note: only 8 matches, and the return is dominated by a single longshot
+> ⚠️ Only 8 matches for now, and the return is dominated by a single longshot
 > (Qatar–Switzerland draw @8.00, +$10,800, ~60% of the total); against the ~5.9% bookmaker vig
-> the strategy is negative-EV overall. This is variance, **not** evidence of beating the market
-> — which is exactly the point this project keeps making. See [`docs/FINDINGS.md`](docs/FINDINGS.md).
+> the strategy is negative-EV overall. 
 
 ## What it does
 
