@@ -43,7 +43,7 @@ at the actual result's odds.
 | Netherlands–Japan | 42/30/27 | 4300/3000/2700 | draw | 3.64 | +920 |
 | Sweden–Tunisia | 45/31/23 | 4600/3100/2300 | home | 1.97 | −938 |
 | Spain–Cape Verde | 78/17/6 | 7700/1700/600 | draw | 19.42 | +23,009 |
-| **Total (13 matches, $130,000 staked)** | | | | | **+41,374** |
+| **Total (13 matches)** | | | | | **+41,374** |
 
 > ⚠️ 13 matches so far, with the return dominated by two longshot draws (Spain–Cape Verde
 > @19.42, +$23,009; Qatar–Switzerland @8.00, +$10,800) — together ~80% of the total; against
