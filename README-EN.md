@@ -24,6 +24,8 @@ The headline result is itself honest: after an exhaustive search, the model sits
 
 ## 2026 World Cup match results (live)
 
+🔗 Live page: **[signana.com/worldcup/predictions](https://www.signana.com/worldcup/predictions)**
+
 An illustrative bet log following the dual-track forecast: $10,000 per match, split across
 home/draw/away in proportion to the model's predicted probabilities (min unit $100), settled
 at the actual result's odds.

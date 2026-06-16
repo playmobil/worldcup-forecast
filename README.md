@@ -22,6 +22,8 @@
 
 ## 2026 世界杯比赛预测结果（持续更新）
 
+🔗 实时在线版：**[signana.com/worldcup/predictions](https://www.signana.com/worldcup/predictions)**
+
 按双轨预测做的演示性下注记录：每场投注 $10,000，依模型预测概率分配到胜/平/负三个结果
 （最小单位 $100），并以该场实际结果对应的赔率结算。
 
