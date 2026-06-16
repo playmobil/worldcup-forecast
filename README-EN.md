@@ -43,11 +43,23 @@ at the actual result's odds.
 | Netherlands–Japan | 42/30/27 | 4300/3000/2700 | draw | 3.64 | +920 |
 | Sweden–Tunisia | 45/31/23 | 4600/3100/2300 | home | 1.97 | −938 |
 | Spain–Cape Verde | 78/17/6 | 7700/1700/600 | draw | 19.42 | +23,009 |
-| **Total (13 matches)** | | | | | **+41,374** |
+| Belgium–Egypt | 53/29/19 | 5200/2900/1900 | draw | 4.26 | +2,340 |
+| Saudi Arabia–Uruguay | 16/29/55 | 1600/2900/5500 | draw | 4.65 | +3,488 |
+| Iran–New Zealand | 47/32/22 | 4600/3200/2200 | draw | 3.64 | +1,635 |
+| France–Senegal | 59/26/16 | 5800/2600/1600 | | | |
+| Iraq–Norway | 16/28/55 | 1600/2800/5600 | | | |
+| Argentina–Algeria | 56/27/17 | 5600/2700/1700 | | | |
+| Austria–Jordan | 57/28/15 | 5700/2800/1500 | | | |
+| **Total (16 settled)** | | | | | **+48,836** |
 
-> ⚠️ 13 matches so far, with the return dominated by two longshot draws (Spain–Cape Verde
-> @19.42, +$23,009; Qatar–Switzerland @8.00, +$10,800) — together ~80% of the total; against
-> the ~5.9% bookmaker vig the strategy is negative-EV overall.
+> ⚠️ Friendly reminder: 16 matches have been settled so far, and the profit is largely driven
+> by an unusually high draw rate — 8 draws out of 16 matches, far above the normal level of
+> roughly one quarter. Two major draw upsets alone — Spain vs Cape Verde @19.42 (+$23,009) and
+> Qatar vs Switzerland @8.00 (+$10,800) — account for about 70% of the total profit.
+>
+> Given the bookmaker margin of around 5.9%, the overall expected value of this strategy may
+> still be negative. Users are advised to integrate an LLM workflow to evaluate the final
+> decision before placing bets.
 
 ## What it does
 
